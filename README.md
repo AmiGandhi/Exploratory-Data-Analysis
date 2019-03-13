@@ -6,6 +6,6 @@ The data was used from kaggle competition -
 
 https://www.kaggle.com/c/ga-customer-revenue-prediction
 
-The replicated notebook which was written in R -
+The original notebook which was written in R -
 
 https://www.kaggle.com/erikbruin/google-analytics-eda-lightgbm-screenshots
